@@ -50,7 +50,8 @@ Heute habe ich alle meine Ziele erreicht, ich bin sehr sehr weit vorgekommen in 
 - [X]
 
 (Heute habe ich... (50-100 Wörter))
-
+Ich habe meine App sehr verbessert. Ich bin sehr stolz auf meine Leistung und hoffe, dass meine Testkunden es auch sehr gut finden. Ich muss nur noch Gewisse Sachen
+an den Schritzügen ändern, und an der Ansicht, es soll übersichtlicher sein und wenige Funktionen müssen hinzugeügt werden
 
 ------------------------------------------------------------------------------
 

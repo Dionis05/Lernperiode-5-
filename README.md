@@ -58,8 +58,9 @@ an den Schritzügen ändern, und an der Ansicht, es soll übersichtlicher sein u
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ] 
+- [ ] Projekt weiterarbeieten
+- [ ] Video funktion hinzufügen, damit ich es einfügen kann
+- [ ] Testen und protokollieren, ob gut oder misslungen
 - [X]
 
 (Heute habe ich... (50-100 Wörter))

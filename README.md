@@ -37,23 +37,20 @@ Meine Ziele sind klar: Ich will mein Projekt beenden. Das ist Priorität Nummer 
 - [X] 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich alle meine Ziele erreicht, ich bin sehr sehr weit vorgekommen in meinem Projekt, bald fertig. ich will jedoch eine neue funktion einbauen, ich denke entweder zuhause oder nächste Woche gründlicher drüber nach.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ---------------------------------------------------------------------------
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ] 
+- [ ] Projekt arbeiten, schauen, ob alles funktioniert
+- [ ] Tipps holen, was kann ich verbessern, hat meien Konkurrenz bessere Funktionen und hat es irgendwo bessere Ideen.
 - [X]
 
 (Heute habe ich... (50-100 Wörter))
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ------------------------------------------------------------------------------
 
@@ -66,8 +63,6 @@ Meine Ziele sind klar: Ich will mein Projekt beenden. Das ist Priorität Nummer 
 
 (Heute habe ich... (50-100 Wörter))
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ------------------------------------------------------------------------------
 
@@ -80,8 +75,6 @@ Meine Ziele sind klar: Ich will mein Projekt beenden. Das ist Priorität Nummer 
 
 (Heute habe ich... (50-100 Wörter))
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ------------------------------------------------------------------------------
 
@@ -94,8 +87,6 @@ Meine Ziele sind klar: Ich will mein Projekt beenden. Das ist Priorität Nummer 
 
 (Heute habe ich... (50-100 Wörter))
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ------------------------------------------------------------------------------
 
@@ -108,8 +99,6 @@ Meine Ziele sind klar: Ich will mein Projekt beenden. Das ist Priorität Nummer 
 
 (Heute habe ich... (50-100 Wörter))
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ------------------------------------------------------------------------------
 
@@ -121,8 +110,5 @@ Meine Ziele sind klar: Ich will mein Projekt beenden. Das ist Priorität Nummer 
 - [X]
 
 (Heute habe ich... (50-100 Wörter))
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 ------------------------------------------------------------------------------

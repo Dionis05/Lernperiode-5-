@@ -65,13 +65,13 @@ an den Schritzügen ändern, und an der Ansicht, es soll übersichtlicher sein u
 
 (Heute habe ich... (50-100 Wörter))
 
-
+Ich habe heute mein Projekt beendet. Ich habe mein Ziel erreicht. Ich habe die App beendet, es funktioniert
 ------------------------------------------------------------------------------
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
+- [ ] An meiner neuen Schach app weiterarbeiten, ich will neue gesicht icons suchen und sie auch einfügen wenn der Chess coach redet.
 - [ ] 
 - [X]
 

@@ -72,7 +72,7 @@ Ich habe heute mein Projekt beendet. Ich habe mein Ziel erreicht. Ich habe die A
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] An meiner neuen Schach app weiterarbeiten, ich will neue gesicht icons suchen und sie auch einfügen wenn der Chess coach redet.
-- [ ] 
+- [ ] Ich habe vor zu lernen, was oop sind im csharp, dazu noch ein kleines Projekt zu dem erstellen. Ich will damit praxis erfahrung haben, aber nur ein simples.
 - [X]
 
 (Heute habe ich... (50-100 Wörter))

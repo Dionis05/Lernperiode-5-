@@ -77,14 +77,14 @@ Ich habe heute mein Projekt beendet. Ich habe mein Ziel erreicht. Ich habe die A
 
 (Heute habe ich... (50-100 Wörter))
 
-
-------------------------------------------------------------------------------
+Heute habe ich alle meine Aufgaben erfolgreich erledigt und bin richtig stolz auf mich! Ich habe passende Icons für meinen Chess Coach gefunden und direkt in die Schach-App eingebunden. Außerdem habe ich mir die OOP-Grundlagen in C# erarbeitet und mein erstes kleines Praxisprojekt umgesetzt
+---------------------------------------------------------------------------
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ] 
+- [ ] WEiter an Chess projekt arbeiten, z.b. den chess coach ändern, 
+- [ ] Weiter an csharp projekt arbeiten, z.b. endlich die zweite arbeitstele fixen
 - [X]
 
 (Heute habe ich... (50-100 Wörter))

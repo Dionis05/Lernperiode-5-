@@ -97,7 +97,7 @@ Habe bin ich gut vorangekommen und habe auch miene Ziele erreicht, ausser das sm
 
 - [ ] Chess coach Foto Problem lösen
 - [ ] Weiter an Csharp projekt arbeiten, zuerst aber das Problem lösen mit dem Memory template und danach noch an die ausgabe arbeiten und fertig kriegen
-- [X] 
+- [ ] Das mit dem foreach in den Griff bekommen. Der PArt mit dem AddList werde ich noch lernen
 
 (Heute habe ich... (50-100 Wörter))
 

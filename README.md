@@ -83,9 +83,9 @@ Heute habe ich alle meine Aufgaben erfolgreich erledigt und bin richtig stolz au
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] WEiter an Chess projekt arbeiten, z.b. den chess coach ändern, 
-- [ ] Weiter an csharp projekt arbeiten, z.b. endlich die zweite arbeitstele fixen
-- [X]
+- [ ] Weiter an Chess projekt arbeiten, Bild vom chess coach einfgüen, weil der Chess Coach kein Bild momentan hat 
+- [ ] Weiter an csharp projekt arbeiten, z.b. endlich die zweite arbeitstele fixen, dass wäre die hauptpriorität
+- [ ] ( Update ) Weiterarbeiten an dem Modull vom Herr Thut ( Hauptsächlich ist das Thema C sharp)
 
 (Heute habe ich... (50-100 Wörter))
 

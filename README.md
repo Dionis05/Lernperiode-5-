@@ -88,16 +88,16 @@ Heute habe ich alle meine Aufgaben erfolgreich erledigt und bin richtig stolz au
 - [ ] ( Update ) Weiterarbeiten an dem Modull vom Herr Thut ( Hauptsächlich ist das Thema C sharp)
 
 (Heute habe ich... (50-100 Wörter))
-
+Habe bin ich gut vorangekommen und habe auch miene Ziele erreicht, ausser das smit dem chess coach, ich hatte es geschaft jedoc funktionierte es nicht mehre.
 
 ------------------------------------------------------------------------------
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ] 
-- [X]
+- [ ] Chess coach Foto Problem lösen
+- [ ] Weiter an Csharp projekt arbeiten, zuerst aber das Problem lösen mit dem Memory template und danach noch an die ausgabe arbeiten und fertig kriegen
+- [X] 
 
 (Heute habe ich... (50-100 Wörter))
 
